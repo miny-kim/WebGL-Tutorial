@@ -1,8 +1,8 @@
-# WebGL Tutorial - Change Cube Attribute
+# WebGL Tutorial - Change Cube
 <br/>
 
 ## 1. 프로젝트 이름 
-* Change Cube Attribute
+* Change Cube
 <br/><br/>
 
 ## 2. 이름
